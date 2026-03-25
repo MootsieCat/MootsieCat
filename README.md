@@ -4,7 +4,7 @@
 
 I'm an IT professional with over 25 years of experience across government, corrections, military, and private industry. My background includes network administration, custom software development, and managing IT solutions.
 
-Currently, I serve as a **User Support Technician I** at **Marion Correctional Institution**, providing technical support and troubleshooting in a secure, mission-critical environment.
+Currently, I serve as a **User Support Technician I**, providing technical support and troubleshooting in a secure, mission-critical environment.
 
 ---
 
