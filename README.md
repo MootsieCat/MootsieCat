@@ -24,13 +24,6 @@ Currently, I serve as a **User Support Technician I**, providing technical suppo
 
 ---
 
-## 🚧 Featured Projects
-
-Here are some things I’m working on or planning to share:
-
-
----
-
 ## 🎖️ Background Highlights
 
 - **US Marine Corps Veteran** – Served in secure communications and network deployment (MOS 2512, 2515, & 4066)
