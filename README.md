@@ -1,44 +1,90 @@
-# 👋 Hello, I'm Russell Hall (MootsieCat)
+<div align="center">
 
-## 🧠 About Me
+# MOOTSIECAT
 
-I'm an IT professional with over 25 years of experience across government, corrections, military, and private industry. My background includes network administration, custom software development, and managing IT solutions.
+### Software · Making · Experimentation
 
-Currently, I serve as a **User Support Technician I**, providing technical support and troubleshooting in a secure, mission-critical environment.
+**Building useful things, from scripts and digital worlds to physical parts.**
 
----
+[![Python](https://img.shields.io/badge/Python-161B22?style=for-the-badge&logo=python&logoColor=79C0FF)](https://www.python.org/)
+[![Blender](https://img.shields.io/badge/Blender-161B22?style=for-the-badge&logo=blender&logoColor=F5792A)](https://www.blender.org/)
+[![Unity](https://img.shields.io/badge/Unity-161B22?style=for-the-badge&logo=unity&logoColor=FFFFFF)](https://unity.com/)
+![Local AI](https://img.shields.io/badge/LOCAL_AI-161B22?style=for-the-badge&logoColor=A5D6FF)
+![Making](https://img.shields.io/badge/MAKING-161B22?style=for-the-badge&logoColor=7EE787)
 
-## 🧰 Tech Stack & Tools
-
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
-![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-8892BF?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Excel VBA](https://img.shields.io/badge/Excel_VBA-107C41?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active_Directory-017ACD?style=for-the-badge&logo=windows&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
-![OPUS](https://img.shields.io/badge/OPUS-4A90E2?style=for-the-badge&logo=files&logoColor=white)
-
+</div>
 
 ---
 
-## 🎖️ Background Highlights
+## `> whoami`
 
-- **US Marine Corps Veteran** – Served in secure communications and network deployment (MOS 2512, 2515, & 4066)
-- **Public Service Technologist** – Over a decade of correctional programming, IT support, and case management
-- **IT Generalist** – Software dev, web server config, user training, scripting, cabling, and hardware repair
+I'm **Russell Hall**, an IT professional, developer, and maker who likes
+figuring out how things work—and building tools that make them work better.
+
+My interests cross the boundary between the digital and physical: Python
+automation, Blender add-ons, local AI, game development, 3D scanning, and
+manufacturing. I enjoy practical problems, open-source tools, and the
+occasional deep dive into a new technology.
+
+## `> explore --interests`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💻 Software & tools
+
+- Python scripting and automation
+- Blender add-ons and creative workflows
+- Open-source tooling and experimentation
+- IT support and troubleshooting
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 Local AI
+
+- Local large language models
+- AI agents and useful workflows
+- Exploring how models can support making and development
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎮 Games & 3D
+
+- Unity game development
+- 3D modeling and scanning
+- Bringing ideas into interactive spaces
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ The physical workshop
+
+- CNC machining
+- Injection molding
+- Turning digital designs into physical objects
+
+</td>
+</tr>
+</table>
+
+## `> philosophy`
+
+```text
+Stay curious.
+Understand the problem.
+Build something useful.
+Keep improving it.
+```
 
 ---
 
-## 📨 Connect With Me
+<div align="center">
 
-If you’d like to talk tech, corrections, automation, or career changes:
+**Always learning. Always tinkering.**
 
-📬 **Email:** russellehall@gmail.com
-
-
----
-
-> “Adaptability, discipline, and technical precision — I bring solutions that work.”
+</div>
